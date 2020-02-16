@@ -1,7 +1,7 @@
 
 
 # Pentesting-Tools
- * (Bash-Tools)[https://github.com/ankitdobhal/Pentesting-Tools/tree/master/Bash-Tools]
+ * [Bash-Tools](https://github.com/ankitdobhal/Pentesting-Tools/tree/master/Bash-Tools)
  * (Powershell-Tools)[https://github.com/ankitdobhal/Pentesting-Tools/tree/master/Powershell-Tools]
  * (Python-Tools)[https://github.com/ankitdobhal/Pentesting-Tools/tree/master/Python-Tools]
 ## Contribution
