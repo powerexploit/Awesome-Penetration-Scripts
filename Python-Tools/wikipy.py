@@ -39,7 +39,7 @@ wwwwwww           wwwww           wwwwwwwiiiiiii  k:::::k    kkkkkkkiiiiiiippppp
                                     Coded By: Ankit Dobhal                                
                                     Let's Begin To Scrape..!            
 -------------------------------------------------------------------------------
-wikipy version 1.0
+wikipy version 1.0 4545
 """ \
     + END
 print(ascii_art)
