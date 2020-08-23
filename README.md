@@ -20,12 +20,15 @@ A curated collection of awesome **Penetration** scripts from basic to advance. I
 
 - **💥Javascript**
 	- 
+	-
 
 - **💥Bash / Batch**
 	- [ForkBOmber](https://github.com/ankitdobhal/Awesome-Penetration-Scripts/blob/master/forbomber.bat)
 	- [DnsResolver](https://github.com/ankitdobhal/Awesome-Penetration-Scripts/blob/master/dnsReverselookup.sh)
 
+
 - **💥Php**
+	-
 	-
 
 ## ⚡ Contribution
