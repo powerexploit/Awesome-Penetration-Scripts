@@ -2,7 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/kuu9flpqjyzxno3nu8x6.gif)
 
 ## 📌 Introduction
@@ -21,7 +20,6 @@ A curated collection of awesome **Penetration** scripts from basic to advance. I
 
 - **💥Javascript**
 	- 
-	-
 
 - **💥Bash / Batch**
 	- [ForkBOmber](https://github.com/ankitdobhal/Awesome-Penetration-Scripts/blob/master/forbomber.bat)
@@ -29,8 +27,6 @@ A curated collection of awesome **Penetration** scripts from basic to advance. I
 
 - **💥Php**
 	-
-	-
-
 
 ## ⚡ Contribution
    If you want to contribute to this Repo , So You can contribute in following ways:
