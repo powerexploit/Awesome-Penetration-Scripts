@@ -3,10 +3,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-## Hacktoberfest
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Five quality pull requests must be submitted to public GitHub repositories.
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/l2pre0fpvpotsttte0f1.jpeg)
-
 
 ## 📌 Introduction
 A curated collection of awesome **Penetration** scripts from basic to advance. It is a combination of **Python** , **Powershell**, **Javascript** , **Bash / Batch** and **Php**. Penetration testing is a process to identify vulnerabilities and will try to exploit them.
